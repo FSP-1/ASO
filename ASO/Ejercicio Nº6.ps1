@@ -1,5 +1,5 @@
-﻿function Get-Factorial ($n) {
-    if ($n -eq 0) {
+function Get-Factorial ($n) {
+    if ($args[0] -eq 0) {
         return 1
     }
     $fact = 1
