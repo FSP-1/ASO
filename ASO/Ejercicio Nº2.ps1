@@ -1,10 +1,13 @@
-﻿$Array=1..12
-
+#Esta variable tiene los numeros 1 al 12#
+ $Array=1..12
+ 
+#Pregunto al Host#
 echo ""
 $Meses=Read-Host ("Introduzca un numero entre el 1 al 12")
 echo ""
 
-
+#En esta parte se encarga que el usuario ponga un numero entre 1 al 12, ya que si puniera un numero mayor o menor, le diria que ese Nº de mes no existe#
+#La segunda parte indica el Nº del mes con su correspondiente mes, es decir, si has puesto el numero 3, el script ira del 1 hasta el Nº que pusiste indicando asi su correspondiente Mes#
 if($Array -eq  $Meses)
 {
 if($Meses -eq  1)
