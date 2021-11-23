@@ -1,4 +1,5 @@
-﻿# Con Argumentos
+﻿
+ # Lo mismo que el anterior pero con la variable $args
 
 if($args[0] -eq $args[1])
 {
