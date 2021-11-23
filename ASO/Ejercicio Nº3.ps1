@@ -1,4 +1,6 @@
 ﻿
+ #Como la unica diferencia es el argumento, solo he cambiado la variable anterior por la variable $args#
+ #Esto es debido a que la variable $args indica el argumento que has puesto al lado del script en la hora de ejecutarlo# 
 $Array=1..12
 
 echo ""
