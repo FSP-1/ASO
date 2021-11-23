@@ -25,4 +25,4 @@ Write-host "La letra E esta en la posicion" $Palabra_chica.IndexOf('e')
 }
 
 
-'Hola'.StartsWith('H')
+
