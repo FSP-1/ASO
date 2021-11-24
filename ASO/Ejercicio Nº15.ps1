@@ -6,7 +6,7 @@ $Archivo_ESP=Get-ChildItem -Path C:\windows -Recurse -Include *.* | Where-Object
 
 
 
-if ($args[0].Contains('NULL'))
+if ($args[0] -eq $null)
 {
 $Archivo_ESP
 }
