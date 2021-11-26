@@ -1,0 +1,33 @@
+LastWriteTime         Length Name                                                    
+-------------         ------ ----                                                    
+18/11/2021 16:40:24  5417984 Microsoft.GroupPolicy.Reporting.ni.dll                  
+18/11/2021 16:40:26  4169216 Microsoft.HyperV.PowerShell.ni.dll                      
+18/11/2021 16:40:27  2505728 Microsoft.HyperV.PowerShell.Cmdlets.ni.dll              
+25/11/2021 16:34:30  2520576 Microsoft.HyperV.PowerShell.Objects.ni.dll              
+25/11/2021 16:34:39  4255232 Microsoft.PowerShell.GPowerShell.ni.dll                 
+18/11/2021 14:59:12 13634560 Microsoft.PowerShell.Commands.Utility.ni.dll            
+18/11/2021 14:59:09  2304000 Microsoft.PowerShell.Commands.Management.ni.dll         
+25/11/2021 16:34:42  2488832 Microsoft.PowerShell.Workflow.ServiceCore.ni.dll        
+25/11/2021 16:34:52  3129344 Microsoft.Virtualization.Client.6.3.Wizards.ni.dll      
+25/11/2021 16:34:46  2229248 Microsoft.Virtualization.Client.6.2.VMBrowser.ni.dll    
+25/11/2021 16:34:50  3350016 Microsoft.Virtualization.Client.6.3.Settings.ni.dll     
+25/11/2021 16:34:53  3091968 Microsoft.Virtualization.Client.Management.ni.dll       
+25/11/2021 16:34:51  2679296 Microsoft.Virtualization.Client.6.3.VMBrowser.ni.dll    
+25/11/2021 16:34:46  3129856 Microsoft.Virtualization.Client.6.2.Settings.ni.dll     
+25/11/2021 16:34:47  3009536 Microsoft.Virtualization.Client.6.2.Wizards.ni.dll      
+18/11/2021 14:59:07 33966080 System.Management.Automation.ni.dll                     
+25/11/2021 15:24:49  5479063 wiatrace.log                                            
+25/11/2021 16:40:10 21216117 CBS.log                                                 
+25/11/2021 15:45:07 28573696 DataStore.edb                                           
+25/11/2021 15:34:54 12833200 AM_Delta_Patch_1.353.1462.0.exe                         
+25/11/2021 16:34:53  5988352 INDEX.BTR                                               
+25/11/2021 16:34:53 27713536 OBJECTS.DATA                                            
+25/11/2021 16:38:57  4263936 Application.evtx                                        
+25/11/2021 15:54:30  5246976 Microsoft-Windows-AppXDeploymentServer%4Operational.evtx
+25/11/2021 16:41:05  2166784 Microsoft-Windows-GroupPolicy%4Operational.evtx         
+25/11/2021 16:41:05  3215360 Microsoft-Windows-Ntfs%4Operational.evtx                
+25/11/2021 16:44:41  5312512 Microsoft-Windows-PowerShell%4Operational.evtx          
+25/11/2021 16:43:24 20058112 Microsoft-Windows-Store%4Operational.evtx               
+25/11/2021 16:45:28 20975616 Security.evtx                                           
+25/11/2021 16:37:00  4263936 System.evtx                                             
+25/11/2021 16:36:05  2166784 Windows PowerShell.evtx  
